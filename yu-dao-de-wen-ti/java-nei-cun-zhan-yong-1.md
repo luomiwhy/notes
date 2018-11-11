@@ -1,6 +1,4 @@
-# Java内存占用
+# Java进程VIRT、RES很高，JVM占用很小
 
-{% file src="../.gitbook/assets/java-jin-cheng-virtres-hen-gao-jvm-zhan-yong-hen-xiao.md" %}
-
-
+![](../.gitbook/assets/jvm-hua-fen-tu.png)
 

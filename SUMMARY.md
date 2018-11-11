@@ -11,5 +11,5 @@
 ## 遇到的问题
 
 * [问题目录](yu-dao-de-wen-ti/wen-ti-mu-lu.md)
-* [Java内存占用](yu-dao-de-wen-ti/java-nei-cun-zhan-yong-1.md)
+* [Java进程VIRT、RES很高，JVM占用很小](yu-dao-de-wen-ti/java-nei-cun-zhan-yong-1.md)
 
