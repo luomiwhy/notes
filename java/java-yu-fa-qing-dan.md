@@ -1,7 +1,3 @@
----
-description: 大小写敏感
----
-
 # Java清单
 
 * 主方法入口：main
