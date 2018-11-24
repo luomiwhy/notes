@@ -1,6 +1,7 @@
 # Table of contents
 
 * [索引](README.md)
+* [工具](gong-ju.md)
 
 ## Java
 
