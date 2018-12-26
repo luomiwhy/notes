@@ -10,6 +10,10 @@
 * [多线程](java/duo-xian-cheng.md)
 * [JDK8-JVM](java/jdk8-jvm.md)
 
+## 大数据
+
+* [Hadoop原理机制](da-shu-ju/hadoop-yuan-li-ji-zhi.md)
+
 ## 遇到的问题
 
 * [问题目录](yu-dao-de-wen-ti/wen-ti-mu-lu.md)
